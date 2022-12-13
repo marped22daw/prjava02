@@ -1,0 +1,40 @@
+Instruccions:
+
+1.a-
+git checkout -b branca00
+
+1.b-
+git push origin branca00
+
+1.c-
+git branch -a
+
+5-
+git checkout main
+git log
+
+7-
+git checkout branca00
+
+10b-
+git merge branca00
+
+12-
+git push
+
+14a-
+git push origin branca01
+
+Respostes:
+
+6-
+No puc veure el canvi ja que la modificacio esta feta a la branca00 i estem a la branca main.
+
+7-
+Ara si la podemo veure perque ens trobem a la branca00.
+
+12c- 
+Perque hem fet el push desde la brana main
+
+14c-
+Esta a un commit de distancia de la branca main.
